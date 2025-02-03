@@ -1,7 +1,7 @@
 
 This repo shows you how to recover the acer nitro 5 an515-45 bios even if the laptop only turns on but the screen stays black.
 
-[ BIOS Unlock - SREP Method ]
+[[ BIOS Unlock - SREP Method ]]
 
 To access all the hidden menus of the BIOS without actually having to reflash it, you use a tool called SmokelessRuntimeEFIPatcher:
 
