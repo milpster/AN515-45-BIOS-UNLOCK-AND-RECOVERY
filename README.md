@@ -29,6 +29,10 @@ There is a PCIE related setting that you can set from "Balanced-Low" to "Perform
 
 And you can enable STAPM boost, but i havent noticed any improvements from that when benchmarking.
 
+If you need benchmark results to compare to, check out my geekbench profile here (geekbench 5 only):
+
+https://browser.geekbench.com/user/176577
+
 Mostly i recommend doing the v102a VBIOS update that acer provides and getting the 1.06 BIOS which updates QBoost settings for your discrete NVidia Card, so it is allowed to run at 100Watts. Later BIOSes might provide this advantage aswell, i just haven't tried.
 
 I have bricked my BIOS before with the following settings:
