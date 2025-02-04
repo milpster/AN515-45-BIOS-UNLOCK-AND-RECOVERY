@@ -68,4 +68,4 @@ Afterwards it will turn off on its own. You are now free to turn it back on, it 
 
 I have assembled these infos here as it took me hours to get all this together and working.
 
-If you have anything to add or want to correct something, contact me at maximalintegerlinearpressure@protonmail.com
+If you have anything to add or want to correct something, contact me at maximalintegerlinearpressure at protonmail.com
