@@ -64,6 +64,8 @@ Within about 5 minutes it should have read and reprogrammed the bios from the st
 
 Afterwards it will turn off on its own. You are now free to turn it back on, it should be working again.
 
----
+# Contact
 
 I have assembled these infos here as it took me hours to get all this together and working.
+
+If you have anything to add or want to correct something, contact me at maximalintegerlinearpressure@protonmail.com
