@@ -17,6 +17,8 @@ https://github.com/Maxinator500/SREP-Patches/blob/master/Configs/AA715-42(715-43
 
 (there is another config for our model, but this one exposed more settings for me)
 
+The SREP config goes into the root of your usb stick, and it needs to be named SREP_Config.cfg in order to be detected by SREP.
+
 Boot from it. Wait a while. It will boot into the unlocked BIOS, your on board BIOS will not be touched.
 
 Be careful though, many of the possible settings will cause your laptop to brick or even worse. I am not responsible for any damages.
