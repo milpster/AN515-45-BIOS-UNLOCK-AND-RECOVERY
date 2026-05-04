@@ -25,6 +25,10 @@ Be careful though, many of the possible settings will cause your laptop to brick
 
 # Quick Tuning
 
+Update: Through this you can change the MMIO Size from 40 bit to 48bit, which can help if you want to run two external gpus on two external risers and only one at a time shows up in your system.
+
+Update: Another thing is that you can disable the STIBP (Single threaded indirect branch predictor) which can help with performance but makes you vulnerable to certain SPECTRE variants and maybe other exploits.
+
 Things that worked for me were enabling PBO and setting it's scalar to 4x - everything above would actually decrease performance for me.
 
 There is a PCIE related setting that you can set from "Balanced-Low" to "Performance" which also seems to help things a bit.
